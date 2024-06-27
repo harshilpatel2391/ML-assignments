@@ -1,0 +1,13 @@
+# Byte compiled
+__pycache__
+*.pyc
+*.cfg
+
+# editors/ide/os
+.DS_Store
+
+# distributions/packaging
+build/
+
+#virtual env
+.venv/
